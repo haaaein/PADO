@@ -1,4 +1,4 @@
-# 🐋 PADO: Personality-induced multi-Agents for Detecting OCEAN
+#  🌊PADO: Personality-induced multi-Agents for Detecting OCEAN
 
 ## 📌 Overview
 Welcome to **PADO**, a novel multi-agent framework designed for detecting personality traits (OCEAN: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism) from human-generated texts. Leveraging Large Language Models (LLMs), PADO employs agents with distinct personality-induced perspectives to deliver context-aware and nuanced insights into personality traits.
