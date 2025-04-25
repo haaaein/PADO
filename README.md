@@ -17,16 +17,6 @@ cd PADO
 pip install -r requirements.txt
 ```
 
-## 🚀 How to Use
-Use our notebook for fast personality trait analysis:
-
-```bash
-jupyter notebook inference.ipynb
-```
-
-- Input your texts.
-- Obtain detailed personality trait predictions instantly!
-
 ## 📈 Performance
 PADO consistently surpasses traditional methods:
 - Robust and reliable personality detection.
