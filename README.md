@@ -43,6 +43,3 @@ Please cite our COLING 2025 paper if you use PADO:
   year={2025}
 }
 ```
-
-## 🤝 Contribution
-We welcome contributions! Feel free to open an issue or submit a PR to help improve PADO.
